@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>SharpVR</AssemblyName>
+    <RootNamespace>SharpVR</RootNamespace>
+  </PropertyGroup>
+</Project>
